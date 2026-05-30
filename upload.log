@@ -1,0 +1,7 @@
+⚠️  `stellar contract install` is deprecated and will be removed in future versions of the CLI. Use `stellar contract upload` instead.
+ℹ️  Simulating transaction…
+ℹ️  Signing transaction: 784885085da5478a58eb97286bf8b2f83e92cd12d9ae8a6e70188de5efdf7200
+🌎 Sending transaction…
+✅ Transaction submitted successfully!
+🔗 https://stellar.expert/explorer/testnet/tx/784885085da5478a58eb97286bf8b2f83e92cd12d9ae8a6e70188de5efdf7200
+98e34146b07c937b47bd82f017980823f6a7d000b1b6fbed34a64163124978e0
