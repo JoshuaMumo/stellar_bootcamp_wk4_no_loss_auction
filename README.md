@@ -20,4 +20,4 @@ In building this contract for the Stellar ecosystem, several key design decision
 
 
 ## Deployed
-the project is deployed in testnet using the contract address as **CDZLU4GYVMIDBVXAK3ZDJYZRTYJFQDWV6RCYFSWCHSVCAYAKM66Y4MQJ**
+the project is deployed in testnet using the contract address as **[CDZLU4GYVMIDBVXAK3ZDJYZRTYJFQDWV6RCYFSWCHSVCAYAKM66Y4MQJ](https://stellar.expert/explorer/testnet/contract/CDZLU4GYVMIDBVXAK3ZDJYZRTYJFQDWV6RCYFSWCHSVCAYAKM66Y4MQJ)**
